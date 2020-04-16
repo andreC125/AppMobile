@@ -12,7 +12,7 @@ export default class ChatScreen extends React.Component {
     get user() {
         return{
             _id: Fire.uid,
-            name: "",
+            name "",
         };
     }
 
